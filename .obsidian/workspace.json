@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76d98052ca192538",
+        "id": "54c8e071de02b19e",
         "type": "tabs",
         "children": [
           {
-            "id": "ca71b4058ec17c0c",
+            "id": "19dbe41a0c98af5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "842c8e15bea90e11",
@@ -169,9 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca71b4058ec17c0c",
+  "active": "19dbe41a0c98af5f",
   "lastOpenFiles": [
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/database.png",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/single-server-setup.png",
     "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
+    "Images/Untitled.md",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS",
+    "Images",
     "Welcome.md"
   ]
 }
