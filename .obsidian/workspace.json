@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "01a5e48103b4a9d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "76d98052ca192538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca71b4058ec17c0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.  SCALE FROM ZERO TO MILLIONS OF  USERS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e097137998126fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77afff9426241ddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8f2e10e061cfa06",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87ae2e4785df9588",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aee5cdfdd3002a0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "842c8e15bea90e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "a75a379af6324737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40d1774af02a7f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.  SCALE FROM ZERO TO MILLIONS OF  USERS"
+            }
+          },
+          {
+            "id": "2d259cb31fa70aeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.  SCALE FROM ZERO TO MILLIONS OF  USERS"
+            }
+          },
+          {
+            "id": "d88968befad054ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b342fc8a70cacb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.  SCALE FROM ZERO TO MILLIONS OF  USERS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ca71b4058ec17c0c",
+  "lastOpenFiles": [
+    "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
+    "Welcome.md"
+  ]
+}
