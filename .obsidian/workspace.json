@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "842c8e15bea90e11",
@@ -171,6 +172,12 @@
   },
   "active": "19dbe41a0c98af5f",
   "lastOpenFiles": [
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/single-point-of_failure.png",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/memcached-api.png",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/cache-tier.png",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/load_balancer_and_database_replication.png",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/database_replication.png",
+    "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/load-balancer.png",
     "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/database.png",
     "Images/SCALE-FROM-ZERO-TO-MILLIONS-OF-USERS/single-server-setup.png",
     "1.  SCALE FROM ZERO TO MILLIONS OF  USERS.md",
